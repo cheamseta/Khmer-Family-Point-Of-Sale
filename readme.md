@@ -19,26 +19,32 @@ Khmer Family Point Of Sale first was introduced in AppStore as Instant POS 4 Blu
 
 
 **++ Pay Later** : Save unpaid order to receivable account and clear later.
+
 **++ Receivable Report** : Track your unpaid customers
+
 **++ Profit and Loss statement** : Simple profit and loss report based on date.
+
 **++ Sale Ledger** : Record sales filter by date and type of sale ( partial, invoice , receipt )
+
 **++ Switch employee** : Manage employees and allow switch to take orders.
+
 **++ Customer** : Add customers and record their purchase history
-**++ No Internet require
-++ Cancel Order Report
-++ Tax Report
-++ Cashier Shift Report
-++ User role and permission
-++ Predefined Promotions
-++ Stock Report
-++ Log all activities
-++ Cancel return stocks
-++ Stock transactions
-++ Redeem drink by point
-++ Backup and Restore inventory and customer
-++ Export sale to CSV
-++ Currency on bluetooth printer
-++ Print to kitchen**
+
+ - List item
+ - No Internet require
+ - Cancel Order Report
+ - Tax Report
+ - Cashier Shift Report
+ - User role and permission
+ - Predefined Promotions
+ - Stock Report
+ - Log all activities
+ - Cancel return stocks
+ - Stock transactions
+ - Redeem drink by point
+ - Backup and Restore inventory and customer
+ - Export sale to CSV
+ - Print to kitchen
 
 ## Screenshot
 |  ![enter image description here](https://firebasestorage.googleapis.com/v0/b/hubgit-cea1c.appspot.com/o/Screen%20Shot%202021-04-14%20at%2011.58.19%20AM.png?alt=media&token=7d076ee6-ddcc-4258-9147-0b31c8bb89b2)| ![enter image description here](https://firebasestorage.googleapis.com/v0/b/hubgit-cea1c.appspot.com/o/Screen%20Shot%202021-04-14%20at%2011.58.32%20AM.png?alt=media&token=126633b3-7774-4381-aad7-4d9a2702276a) |
