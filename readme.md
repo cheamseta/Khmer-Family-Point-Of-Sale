@@ -7,7 +7,7 @@ Point of sale has been a central point of businesses in Cambodia. However, bigge
 Khmer Family Point Of Sale first was introduced in AppStore as Instant POS 4 Bluetooth Printer. The simplicity of the application has been supported by some countries in Southeast-Asia. 
 
 ## Download
-- [For Window](https://firebasestorage.googleapis.com/v0/b/hubgit-cea1c.appspot.com/o/Khmer-Family-POS.zip?alt=media&token=222c1d87-1a3d-4235-a95e-1a40814ab33a) 
+- [For Window](https://app.box.com/s/v0rd5x9cgbommrrlmu5eiz8rtaagwljp) 
 - [For Mac](https://app.box.com/s/1fc7su3evrcx2navju7ijqj8nlwzsfvk) 
 ## Behind the scenes 
 
