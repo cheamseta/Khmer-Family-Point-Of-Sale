@@ -8,7 +8,7 @@ Khmer Family Point Of Sale first was introduced in AppStore as Instant POS 4 Blu
 
 ## Download
 - [For Window](https://firebasestorage.googleapis.com/v0/b/hubgit-cea1c.appspot.com/o/Khmer-Family-POS.zip?alt=media&token=222c1d87-1a3d-4235-a95e-1a40814ab33a) 
-- [For Mac](https://firebasestorage.googleapis.com/v0/b/hubgit-cea1c.appspot.com/o/khmer-family-pos-1.0.0-mac.zip?alt=media&token=aa3585ff-7ebb-4f22-965c-c315e6651984) 
+- [For Mac](https://app.box.com/s/1fc7su3evrcx2navju7ijqj8nlwzsfvk) 
 ## Behind the scenes 
 
 - Angular
